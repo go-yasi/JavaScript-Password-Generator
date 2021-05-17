@@ -7,16 +7,23 @@
     <title>Password Generator</title>
     <link rel="stylesheet" href="style.css" />
   </head>
+  
   <body>
     <div class="wrapper">
       <header>
         <h1>Password Generator</h1>
       </header>
+
+      <!-- Section with the Password generator box -->
       <div class="card">
+        <!-- Password generator box heading -->
         <div class="card-header">
           <h2>Generate a Password</h2>
         </div>
+
+        <!-- Container where you view your generated password -->
         <div class="card-body">
+          <!-- text area where generated password is displayed -->
           <textarea
             readonly
             id="password"
@@ -24,9 +31,13 @@
             aria-label="Generated Password"
           ></textarea>
         </div>
+
+        <!-- Div with generate password button -->
         <div class="card-footer">
+          <!-- Generate password button -->
           <button id="generate" class="btn">Generate Password</button>
         </div>
+        
       </div>
     </div>
     <script src="script.js"></script>
