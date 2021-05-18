@@ -1,7 +1,7 @@
 // Selecting button with the id "generate" and assigning it to variable "generateBtn"
 var generateBtn = document.querySelector("#generate");
 
-// Write password to the #password input
+// Write password to the #password text area
 function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
@@ -10,5 +10,5 @@ function writePassword() {
 
 }
 
-// Add event listener to generate button
+// Add event listener for the generate button used to generate the password
 generateBtn.addEventListener("click", writePassword);
