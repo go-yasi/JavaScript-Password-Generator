@@ -20,13 +20,13 @@ Below are the steps I took when developing this application:
 2. Review the starter code in the script.js file to indetify what has already been written and what still needs to be added. 
 3. Think about the end goal of this assignment and come up with a list of what needs to be created: 
 <!-- - When the user clicks on the generate password button, they are prompted for password criteria -->
-- The user needs to select from four groups of characters: lowercase, uppercase, numeric, and/or special characters (user must select at least one type). I need to create a series of prompts for the user to choose which type of characters they want to include (and ensure it meets the parameters).
+- The user needs to select from four groups of characters: lowercase, uppercase, numeric, and/or special characters (user must select at least one type). I need to create a series of prompts for the user to choose which type of characters they want to include (and ensure it meets the parameters). I need to create arrays for each type of character groups.
 - Users need to pick a length for their password that is between 8 and 128 characters. I need to create a prompt for the user to input their desired password length (and ensure it meets the parameters).
 - After each prompt is answered, the user's input should be recorded and validated. I need to create 
 - Users need to be notified if they input does not meet the parameters. I need to create an alert that lets the user know they did not meet the parameters and ensure that the function does not run.
 - When the user answers all prompts, a random password needs to be generated that matches the user's selected criteria (password characters and length). 
 - The generated password needs to be written to the page or displayed in an alert. 
-
+4. Next, I began defining the values of each type of characters users can choose from by creating an array of strings.
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
