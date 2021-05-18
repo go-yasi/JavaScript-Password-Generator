@@ -40,7 +40,7 @@ console.log(userLower);
 
 // UPPERCASE CHARACTERS
 // ask user if they want uppercase characters
-var userUpper = window.confirm("Do you want uppercase characters in your password?");
+var userUpper = window.confirm("Do you want UPPERCASE characters in your password?");
 console.log(userUpper);
 
 // NUMERIC CHARACTERS

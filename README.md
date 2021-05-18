@@ -1,6 +1,6 @@
 # Coolest Password Generator Ever
 ## Description
-The goal of this assignment was to use JavaScript to create an application to generate random passwords based on a specific set of criteria. 
+The goal of this assignment was to use JavaScript to create an application for users to generate a random password based on a set of criteria they define. Using a series of prompts,  
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
