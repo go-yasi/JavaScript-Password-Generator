@@ -82,7 +82,7 @@ if (userSpecial === true) {
   // var options = Math.floor(Math.random() * array.length)
   // return options
 
-// password varaible set to empty strin
+// password varaible set to empty string
   var password = "";
 
 // for loop that generates random characters from finalArray, limited to userLength number
