@@ -26,7 +26,7 @@ Below are the steps I took to develop this application:
 
 
 ## Usage
-Link to deployed application: https://go-yasi.github.io/coolest-password-generator-ever/
+Link to deployed application: https://go-yasi.github.io/JavaScript-Password-Generator/
 
 Below is the screenshot of the application:
 ![screenshot of final page](assets/images/coolest-password-generator-ever-screenshot.png)
